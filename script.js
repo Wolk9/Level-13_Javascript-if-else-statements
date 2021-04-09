@@ -1,8 +1,8 @@
 var age = 18;
 var isFemale = true;
-var driverStatus = 'geen bob';
+var driverStatus = 'bob';
 
-if (age > 17) {
+if (age >= 18) {
     if (isFemale) {
         if (driverStatus == 'bob') {
 
